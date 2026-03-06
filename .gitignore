@@ -1,0 +1,5 @@
+langgraph_env/
+Data/
+.env
+__pycache__/
+.ipynb_checkpoints/
